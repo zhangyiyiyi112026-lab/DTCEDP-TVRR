@@ -1,0 +1,27 @@
+CUST NO.	Coordinate X	Coordinate Y	H	q	p	ready_time	due_time	demand_status	demand_type	release_time
+0	35	35	0	0	0	0	6	depot	none	0
+1	41	49	0	0	10	0	6	static	urgent	0
+2	35	17	0	0	7	0	6	static	urgent	0
+3	55	45	0	0	13	0.66902	6	dynamic	urgent	0.66902
+4	55	20	0	19	0	0	6	static	basic	0
+5	15	30	0	26	0	0	6	static	basic	0
+6	25	30	0	0	3	0.42185	6	dynamic	urgent	0.42185
+7	20	50	0	5	0	0	6	static	basic	0
+8	10	43	0	9	0	0	6	static	basic	0
+9	55	60	0	16	0	0	6	static	basic	0
+10	30	60	0	0	16	0	6	static	urgent	0
+11	20	65	0	0	12	0	6	static	urgent	0
+12	50	35	0	19	0	0	6	static	basic	0
+13	30	25	0	23	0	0	6	static	basic	0
+14	15	10	0	20	0	0	6	static	basic	0
+15	30	5	0	0	8	0.30802	6	dynamic	urgent	0.30802
+16	10	20	0	0	19	0.98854	6	dynamic	urgent	0.98854
+17	5	30	0	2	0	0	6	static	basic	0
+18	20	40	0	0	12	0.98404	6	dynamic	urgent	0.98404
+19	15	60	0	0	17	0	6	static	urgent	0
+20	45	65	0	9	0	0	6	static	basic	0
+21	45	20	0	11	0	0	6	static	basic	0
+22	45	10	0	18	0	0	6	static	basic	0
+23	55	5	0	29	0	0	6	static	basic	0
+24	65	35	0	3	0	0	6	static	basic	0
+25	65	20	0	6	0	0	6	static	basic	0
